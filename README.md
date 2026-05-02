@@ -6,9 +6,15 @@
 </h3>
 
 <p align="center">
-	<a href="https://github.com/catppuccin/warp/stargazers"><img src="https://img.shields.io/github/stars/catppuccin/warp?colorA=363a4f&colorB=b7bdf8&style=for-the-badge"></a>
-	<a href="https://github.com/catppuccin/warp/issues"><img src="https://img.shields.io/github/issues/catppuccin/warp?colorA=363a4f&colorB=f5a97f&style=for-the-badge"></a>
-	<a href="https://github.com/catppuccin/warp/contributors"><img src="https://img.shields.io/github/contributors/catppuccin/warp?colorA=363a4f&colorB=a6da95&style=for-the-badge"></a>
+	<a href="https://github.com/FIlip-Work-Hulten/dotfiles/stargazers">
+		<img src="https://img.shields.io/github/stars/FIlip-Work-Hulten/dotfiles?colorA=363a4f&colorB=b7bdf8&style=for-the-badge">
+	</a>
+	<a href="https://github.com/FIlip-Work-Hulten/dotfiles/issues">
+		<img src="https://img.shields.io/github/issues/FIlip-Work-Hulten/dotfiles?colorA=363a4f&colorB=f5a97f&style=for-the-badge">
+	</a>
+	<a href="https://github.com/FIlip-Work-Hulten/dotfiles/contributors">
+		<img src="https://img.shields.io/github/contributors/FIlip-Work-Hulten/dotfiles?colorA=363a4f&colorB=a6da95&style=for-the-badge">
+	</a>
 </p>
 
 <p align="center">
