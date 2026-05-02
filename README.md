@@ -29,4 +29,11 @@
 
 ## My Configs
 
-- Note ref to catppuccin
+Using:
+- Warp
+- Catpuccin
+- Starship Gruvbox Rainbow Preset (constum catpuccin config)
+
+## Thanks to
+
+- [catpuccin](https://github.com/catppuccin)
